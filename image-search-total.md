@@ -175,3 +175,9 @@ AI 领域有很多赛事，图像分类是其中一项重要的比赛内容，�
 
 - [以图搜图系统概述](https://segmentfault.com/a/1190000022208225)
 - [以图搜图系统工程实践](https://segmentfault.com/a/1190000022341617)
+
+
+## 英文翻译版
+
+- [](https://medium.com/unstructured-data-service/the-journey-to-optimize-billion-scale-image-search-part-1-a270c519246d)
+- [](https://medium.com/unstructured-data-service/the-journey-to-optimizing-billion-scale-image-search-2-2-572a36d5d0d)
